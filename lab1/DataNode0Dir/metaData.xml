@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<datanode>
+    <id>1</id>
+    <capacity>100</capacity>
+    <blockSize>4*1024</blockSize>
+    <usedNum>7</usedNum>
+    <usedBlocks>
+    <block>
+            <id>0</id>
+        </block>
+    <block>
+            <id>1</id>
+        </block>
+    <block>
+            <id>2</id>
+        </block>
+    <block>
+            <id>3</id>
+        </block>
+    <block>
+            <id>4</id>
+        </block>
+    <block>
+            <id>5</id>
+        </block>
+    <block>
+            <id>6</id>
+        </block>
+    </usedBlocks>
+</datanode>

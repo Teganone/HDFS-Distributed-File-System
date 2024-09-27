@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fsImage>
+    <root>
+        <id>1</id>
+    </root>
+    <inodes>
+        <capacity>1000</capacity>
+        <usedNum>10</usedNum>
+        <inode>
+            <id>1</id>
+            <type>directory</type>
+            <name>/</name>
+            <size>0</size>
+            <permission>3</permission>
+            <ctime>2023-11-13 18:51:58</ctime>
+            <mtime>2023-11-13 18:51:58</mtime>
+            <atime>2023-11-13 18:51:58</atime>
+            <children>
+            <inode>
+                    <id>2</id>
+                    <type>file</type>
+                    <name>1413280912TEST</name>
+                    <permission>3</permission>
+                    <size>0</size>
+                    <ctime>2023-11-16 20:33:45</ctime>
+                    <mtime>2023-11-16 20:33:45</mtime>
+                    <atime>2023-11-16 20:33:45</atime>
+                    <blocks/>
+                </inode>
+            <inode>
+                    <id>3</id>
+                    <type>file</type>
+                    <name>824856358TEST</name>
+                    <permission>3</permission>
+                    <size>0</size>
+                    <ctime>2023-11-16 20:35:27</ctime>
+                    <mtime>2023-11-16 20:35:27</mtime>
+                    <atime>2023-11-16 20:35:27</atime>
+                    <blocks/>
+                </inode>
+            <inode>
+                    <id>4</id>
+                    <type>file</type>
+                    <name>1166579770TEST</name>
+                    <permission>3</permission>
+                    <size>0</size>
+                    <ctime>2023-11-16 20:39:47</ctime>
+                    <mtime>2023-11-16 20:40:46</mtime>
+                    <atime>2023-11-16 20:40:46</atime>
+                    <blocks/>
+                </inode>
+            <inode>
+                    <id>5</id>
+                    <type>file</type>
+                    <name>566696593TEST</name>
+                    <permission>3</permission>
+                    <size>0</size>
+                    <ctime>2023-11-16 20:44:28</ctime>
+                    <mtime>2023-11-16 20:44:28</mtime>
+                    <atime>2023-11-16 20:44:28</atime>
+                    <blocks/>
+                </inode>
+            <inode>
+                    <id>6</id>
+                    <type>file</type>
+                    <name>1065017819TEST</name>
+                    <permission>3</permission>
+                    <size>0</size>
+                    <ctime>2023-11-16 20:44:44</ctime>
+                    <mtime>2023-11-16 20:44:44</mtime>
+                    <atime>2023-11-16 20:44:44</atime>
+                    <blocks/>
+                </inode>
+            <inode>
+                    <id>7</id>
+                    <type>file</type>
+                    <name>1118053758TEST</name>
+                    <permission>3</permission>
+                    <size>11</size>
+                    <ctime>2023-11-16 20:49:02</ctime>
+                    <mtime>2023-11-16 20:49:02</mtime>
+                    <atime>2023-11-16 20:49:02</atime>
+                    <blocks>
+                        <block>
+                            <dataNodeNo>0</dataNodeNo>
+                            <blockNo>8</blockNo>
+                        </block>
+                    </blocks>
+                </inode>
+            <inode>
+                    <id>8</id>
+                    <type>file</type>
+                    <name>2110920555TEST</name>
+                    <permission>3</permission>
+                    <size>11</size>
+                    <ctime>2023-11-16 20:49:42</ctime>
+                    <mtime>2023-11-16 20:49:42</mtime>
+                    <atime>2023-11-16 20:49:42</atime>
+                    <blocks>
+                        <block>
+                            <dataNodeNo>0</dataNodeNo>
+                            <blockNo>9</blockNo>
+                        </block>
+                    </blocks>
+                </inode>
+            <inode>
+                    <id>9</id>
+                    <type>file</type>
+                    <name>886627885TEST</name>
+                    <permission>3</permission>
+                    <size>11</size>
+                    <ctime>2023-11-16 20:50:16</ctime>
+                    <mtime>2023-11-16 20:50:16</mtime>
+                    <atime>2023-11-16 20:50:16</atime>
+                    <blocks>
+                        <block>
+                            <dataNodeNo>0</dataNodeNo>
+                            <blockNo>10</blockNo>
+                        </block>
+                    </blocks>
+                </inode>
+            <inode>
+                    <id>10</id>
+                    <type>file</type>
+                    <name>1426786566TEST</name>
+                    <permission>3</permission>
+                    <size>11</size>
+                    <ctime>2023-11-16 20:51:40</ctime>
+                    <mtime>2023-11-16 20:51:40</mtime>
+                    <atime>2023-11-16 20:51:40</atime>
+                    <blocks>
+                        <block>
+                            <dataNodeNo>0</dataNodeNo>
+                            <blockNo>11</blockNo>
+                        </block>
+                    </blocks>
+                </inode>
+            </children>
+        </inode>
+    </inodes>
+</fsImage>

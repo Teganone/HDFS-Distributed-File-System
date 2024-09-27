@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fsImage>
+    <root>
+        <id>1</id>
+    </root>
+    <inodes>
+        <capacity>1000</capacity>
+        <usedNum>1</usedNum>
+        <inode>
+            <id>1</id>
+            <type>directory</type>
+            <name>/</name>
+            <size>0</size>
+            <permission>3</permission>
+            <ctime>2023-11-13 18:51:58</ctime>
+            <mtime>2023-11-13 18:51:58</mtime>
+            <atime>2023-11-13 18:51:58</atime>
+            <children>
+            </children>
+        </inode>
+    </inodes>
+</fsImage>

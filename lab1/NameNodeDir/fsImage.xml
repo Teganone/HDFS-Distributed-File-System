@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fsImage>
+    <root>
+        <id>1</id>
+    </root>
+    <inodes>
+        <capacity>1000</capacity>
+        <usedNum>6</usedNum>
+    <inode>
+        <id>1</id>
+        <type>directory</type>
+        <name>/</name>
+        <size>0</size>
+        <permission>3</permission>
+        <ctime>2023-11-13 18:51:58</ctime>
+        <mtime>2023-11-13 18:51:58</mtime>
+        <atime>2023-11-13 18:51:58</atime>
+        <children>
+        <inode>
+                    <id>2</id>
+                    <type>file</type>
+                    <name>file1.txt</name>
+                    <permission>3</permission>
+                    <size>33369</size>
+                    <ctime>2023-11-15 16:56:56</ctime>
+                    <mtime>2023-11-16 16:23:06</mtime>
+                    <atime>2023-11-16 16:32:46</atime>
+                    <blocks>
+                        <block>
+                            <dataNodeNo>1</dataNodeNo>
+                            <blockNo>2</blockNo>
+                        </block>
+                    <block>
+                            <dataNodeNo>1</dataNodeNo>
+                            <blockNo>0</blockNo>
+                        </block>
+                        <block>
+                            <dataNodeNo>1</dataNodeNo>
+                            <blockNo>1</blockNo>
+                        </block>
+                        <block>
+                            <dataNodeNo>1</dataNodeNo>
+                            <blockNo>4</blockNo>
+                        </block>
+                        <block>
+                            <dataNodeNo>1</dataNodeNo>
+                            <blockNo>5</blockNo>
+                        </block>
+                    <block>
+                            <dataNodeNo>1</dataNodeNo>
+                            <blockNo>6</blockNo>
+                        </block>
+                        <block>
+                            <dataNodeNo>1</dataNodeNo>
+                            <blockNo>7</blockNo>
+                        </block>
+                        <block>
+                            <dataNodeNo>1</dataNodeNo>
+                            <blockNo>8</blockNo>
+                        </block>
+                        <block>
+                            <dataNodeNo>1</dataNodeNo>
+                            <blockNo>9</blockNo>
+                        </block>
+                    </blocks>
+                </inode>
+            <inode>
+                    <id>3</id>
+                    <type>directory</type>
+                    <name>dir1</name>
+                    <permission>3</permission>
+                    <ctime>2023-11-15 23:00:50</ctime>
+                    <mtime>2023-11-15 23:00:50</mtime>
+                    <atime>2023-11-15 23:00:50</atime>
+                    <children>
+                        <inode>
+                            <id>4</id>
+                            <type>file</type>
+                            <name>file1.txt</name>
+                            <permission>3</permission>
+                            <size>14</size>
+                            <ctime>2023-11-15 22:55:30</ctime>
+                            <mtime>2023-11-15 22:59:44</mtime>
+                            <atime>2023-11-15 23:17:02</atime>
+                            <blocks>
+                                <block>
+                                    <dataNodeNo>0</dataNodeNo>
+                                    <blockNo>0</blockNo>
+                                </block>
+                            </blocks>
+                        </inode>
+                    </children>
+                </inode>
+            <inode>
+                    <id>5</id>
+                    <type>directory</type>
+                    <name>dir2</name>
+                    <permission>3</permission>
+                    <ctime>2023-11-16 16:30:24</ctime>
+                    <mtime>2023-11-16 16:30:24</mtime>
+                    <atime>2023-11-16 16:30:24</atime>
+                    <children>
+                        <inode>
+                            <id>6</id>
+                            <type>file</type>
+                            <name>file2.txt</name>
+                            <permission>3</permission>
+                            <size>75</size>
+                            <ctime>2023-11-16 16:25:09</ctime>
+                            <mtime>2023-11-16 16:31:47</mtime>
+                            <atime>2023-11-16 16:34:03</atime>
+                            <blocks>
+                                <block>
+                                    <dataNodeNo>0</dataNodeNo>
+                                    <blockNo>1</blockNo>
+                                </block>
+                            </blocks>
+                        </inode>
+                    </children>
+                </inode>
+            </children>
+    </inode>
+    </inodes>
+</fsImage>

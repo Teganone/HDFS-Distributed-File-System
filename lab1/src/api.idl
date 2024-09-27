@@ -1,0 +1,18 @@
+module api {
+    typedef octet byteArray[4*1024];
+    interface DataNode {
+        byteArray read(in long block_id);
+        void append(in long block_id, in byteArray bytes);
+        long randomBlockId();
+        long getUsedBlockNum();
+        long getBlocksCapacity();
+    };
+    interface NameNode{
+    //TODO: complete the interface design
+        string open(in string filepath, in long mode);
+        void close(in string filepath);
+        void registerDataNode(in long id);
+        typedef sequence<boolean> BooleanSequence;
+        BooleanSequence getRegisteredDataNodes();
+    };
+};

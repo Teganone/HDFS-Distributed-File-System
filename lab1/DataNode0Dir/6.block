@@ -1,0 +1,1 @@
+f this happens to you, please do not report this as a CVE or security issue: it is utterly predictable. Secure your cluster if you want to remain exclusively your cluster.Finally, if you are using Hadoop as a service deployed/managed by someone else, do determine what security their products offer and make sure it meets your requirements.
